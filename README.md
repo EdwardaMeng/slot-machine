@@ -32,7 +32,6 @@ npm install
 
 npm run dev
 ```
-Usage
 Open the game in the browser.
 
 Click the Spin button to randomly spin the reels.
@@ -40,6 +39,7 @@ Click the Spin button to randomly spin the reels.
 Watch the win text update with the current positions and visible screenSymbols.
 
 Check total wins and payline details in the win text display.
+
 
 
 
