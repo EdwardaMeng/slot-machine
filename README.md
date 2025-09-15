@@ -14,14 +14,13 @@ A **TypeScript** and **Pixi.js** based slot machine game, featuring randomly gen
 - Fully object-oriented and modular with TypeScript
 
 ## Project Structure
-slot-machine/ # Project root
-main.ts # Entry point, initializes the application
-SlotMachineApp.ts # Main game class: manages reels, spin, and winText
-Reel.ts # Reel class for generating single reel
-ReelsContainer.ts # Reel container class for generating and updating reels
-Paylines.ts # Payline definitions and payout calculation logic
-WinText.ts # Handles displaying winning info on screen
-assets # Images and symbols used in the game
+- main.ts: Entry point, initializes the application
+- SlotMachineApp.ts: Main game class: manages reels, spin, and winText
+- Reel.ts: Reel class for generating single reel
+- ReelsContainer.ts: Reel container class for generating and updating reels
+- Paylines.ts: Payline definitions and payout calculation logic
+- WinText.ts: Handles displaying winning info on screen
+- assets: Images and symbols used in the game
 
 ## Installation
 
@@ -41,6 +40,7 @@ Click the Spin button to randomly spin the reels.
 Watch the win text update with the current positions and visible screenSymbols.
 
 Check total wins and payline details in the win text display.
+
 
 
 
