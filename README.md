@@ -25,7 +25,6 @@ src/
 └─ index.html # HTML entry with canvas container
 
 bash
-复制代码
 
 ## Installation
 
@@ -34,14 +33,11 @@ bash
 git clone <repository-url>
 Install dependencies:
 
-bash
-复制代码
 npm install
 Start the development server:
 
-bash
-复制代码
 npm run dev
+```
 Usage
 Open the game in the browser.
 
@@ -57,3 +53,4 @@ Built with Pixi.js for rendering.
 Fully modular with classes for scalability.
 
 Positions and symbols are accessible for future analytics or features.
+
