@@ -29,12 +29,10 @@ bash
 ## Installation
 
 1. Clone the repository:
-```bash
+```
 git clone <repository-url>
-Install dependencies:
 
 npm install
-Start the development server:
 
 npm run dev
 ```
@@ -45,12 +43,6 @@ Click the Spin button to randomly spin the reels.
 
 Watch the win text update with the current positions and visible screenSymbols.
 
-Check total wins and payline details in the win display.
+Check total wins and payline details in the win text display.
 
-Notes
-Built with Pixi.js for rendering.
-
-Fully modular with classes for scalability.
-
-Positions and symbols are accessible for future analytics or features.
 
